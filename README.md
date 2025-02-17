@@ -12,8 +12,7 @@ This project demonstrates the implementation of **Clean Architecture** in an And
 
 ## About the Project
 
-The goal of this project is to showcase how to implement Clean Architecture in an Android application by clearly separating business logic from the UI and data handling. This separation helps in maintaining, testing, and scaling the code effectively.
-
+![image](https://github.com/Shmulik-Danan/Movie/blob/main/flow.png)
 ---
 
 ## Architecture Layers
